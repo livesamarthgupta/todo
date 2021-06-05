@@ -1,0 +1,173 @@
+2021-06-05T18:26:58.446+0530 INFO Starting TodoListApisApplication using Java 15.0.2 on TD-4DNFGB3 with PID 1428 (C:\Projects\todo\target\classes started by sg255094 in C:\Projects\todo)
+2021-06-05T18:26:58.456+0530 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-05T18:26:58.457+0530 INFO No active profile set, falling back to default profiles: default
+2021-06-05T18:26:58.518+0530 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-05T18:26:58.518+0530 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-05T18:26:59.550+0530 INFO Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-06-05T18:26:59.641+0530 INFO Finished Spring Data repository scanning in 76 ms. Found 1 JPA repository interfaces.
+2021-06-05T18:27:00.645+0530 INFO Tomcat initialized with port(s): 8080 (http)
+2021-06-05T18:27:00.660+0530 INFO Initializing ProtocolHandler ["http-nio-8080"]
+2021-06-05T18:27:00.661+0530 INFO Starting service [Tomcat]
+2021-06-05T18:27:00.662+0530 INFO Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-05T18:27:00.817+0530 INFO Initializing Spring embedded WebApplicationContext
+2021-06-05T18:27:00.817+0530 INFO Root WebApplicationContext: initialization completed in 2298 ms
+2021-06-05T18:27:00.876+0530 INFO HikariPool-1 - Starting...
+2021-06-05T18:27:01.204+0530 INFO HikariPool-1 - Start completed.
+2021-06-05T18:27:01.217+0530 INFO H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:1057ac2a-f5d9-495d-a4c0-581cf0eca087'
+2021-06-05T18:27:01.474+0530 INFO HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-05T18:27:01.576+0530 INFO HHH000412: Hibernate ORM core version 5.4.31.Final
+2021-06-05T18:27:01.857+0530 INFO HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-05T18:27:02.110+0530 INFO HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-06-05T18:27:03.046+0530 INFO HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-05T18:27:03.067+0530 INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-06-05T18:27:03.523+0530 WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-06-05T18:27:04.196+0530 INFO LiveReload server is running on port 35729
+2021-06-05T18:27:04.232+0530 INFO Starting ProtocolHandler ["http-nio-8080"]
+2021-06-05T18:27:04.296+0530 INFO Tomcat started on port(s): 8080 (http) with context path ''
+2021-06-05T18:27:04.323+0530 INFO Started TodoListApisApplication in 6.376 seconds (JVM running for 7.781)
+2021-06-05T18:27:04.328+0530 INFO Application availability state LivenessState changed to CORRECT
+2021-06-05T18:27:04.335+0530 INFO Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-05T19:13:37.542+0530 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-05T19:13:37.542+0530 INFO Initializing Servlet 'dispatcherServlet'
+2021-06-05T19:13:37.544+0530 INFO Completed initialization in 2 ms
+2021-06-05T19:13:37.561+0530 INFO class com.todo.controller.TodoController: Fetching all todos
+2021-06-05T19:13:45.836+0530 INFO class com.todo.controller.TodoController: Saving todo with id: 0
+2021-06-05T19:13:50.236+0530 INFO class com.todo.controller.TodoController: Fetching all todos
+2021-06-05T19:14:08.289+0530 INFO class com.todo.controller.TodoController: Updating todo with id: 3
+2021-06-05T19:14:12.912+0530 INFO class com.todo.controller.TodoController: Fetching all todos
+2021-06-05T19:17:48.396+0530 INFO Starting TodoListApisApplication using Java 15.0.2 on TD-4DNFGB3 with PID 18792 (C:\Projects\todo\target\classes started by sg255094 in C:\Projects\todo)
+2021-06-05T19:17:48.407+0530 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-05T19:17:48.408+0530 INFO No active profile set, falling back to default profiles: default
+2021-06-05T19:17:48.475+0530 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-05T19:17:48.476+0530 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-05T19:17:49.450+0530 INFO Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-06-05T19:17:49.537+0530 INFO Finished Spring Data repository scanning in 72 ms. Found 1 JPA repository interfaces.
+2021-06-05T19:17:50.577+0530 INFO Tomcat initialized with port(s): 8080 (http)
+2021-06-05T19:17:50.591+0530 INFO Initializing ProtocolHandler ["http-nio-8080"]
+2021-06-05T19:17:50.592+0530 INFO Starting service [Tomcat]
+2021-06-05T19:17:50.593+0530 INFO Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-05T19:17:50.753+0530 INFO Initializing Spring embedded WebApplicationContext
+2021-06-05T19:17:50.754+0530 INFO Root WebApplicationContext: initialization completed in 2277 ms
+2021-06-05T19:17:50.807+0530 INFO HikariPool-1 - Starting...
+2021-06-05T19:17:51.111+0530 INFO HikariPool-1 - Start completed.
+2021-06-05T19:17:51.122+0530 INFO H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:d435bd5b-ce80-4ab1-8f53-3021ac9474e9'
+2021-06-05T19:17:51.399+0530 INFO HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-05T19:17:51.501+0530 INFO HHH000412: Hibernate ORM core version 5.4.31.Final
+2021-06-05T19:17:51.777+0530 INFO HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-05T19:17:52.007+0530 INFO HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-06-05T19:17:52.843+0530 INFO HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-05T19:17:52.860+0530 INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-06-05T19:17:53.308+0530 WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-06-05T19:17:53.949+0530 INFO LiveReload server is running on port 35729
+2021-06-05T19:17:53.978+0530 INFO Starting ProtocolHandler ["http-nio-8080"]
+2021-06-05T19:17:54.033+0530 INFO Tomcat started on port(s): 8080 (http) with context path ''
+2021-06-05T19:17:54.056+0530 INFO Started TodoListApisApplication in 6.184 seconds (JVM running for 7.638)
+2021-06-05T19:17:54.059+0530 INFO Application availability state LivenessState changed to CORRECT
+2021-06-05T19:17:54.064+0530 INFO Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-05T19:17:59.501+0530 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-05T19:17:59.502+0530 INFO Initializing Servlet 'dispatcherServlet'
+2021-06-05T19:17:59.503+0530 INFO Completed initialization in 1 ms
+2021-06-05T19:17:59.581+0530 INFO class com.todo.controller.TodoController: Saving todo: Learn Spring
+2021-06-05T19:18:01.859+0530 INFO class com.todo.controller.TodoController: Fetching all todos
+2021-06-05T19:18:06.383+0530 INFO class com.todo.controller.TodoController: Updating todo with id: 3
+2021-06-05T19:18:06.393+0530 ERROR Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.persistence.EntityNotFoundException] with root cause
+javax.persistence.EntityNotFoundException: null
+	at com.todo.service.TodoService.updateTodo(TodoService.java:36) ~[classes/:?]
+	at com.todo.controller.TodoController.updateTodo(TodoController.java:61) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) ~[spring-web-5.3.7.jar:5.3.7]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) ~[spring-web-5.3.7.jar:5.3.7]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) ~[spring-webmvc-5.3.7.jar:5.3.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894) ~[spring-webmvc-5.3.7.jar:5.3.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.7.jar:5.3.7]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.7.jar:5.3.7]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063) ~[spring-webmvc-5.3.7.jar:5.3.7]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.7.jar:5.3.7]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.7.jar:5.3.7]
+	at org.springframework.web.servlet.FrameworkServlet.doPut(FrameworkServlet.java:920) ~[spring-webmvc-5.3.7.jar:5.3.7]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655) ~[tomcat-embed-core-9.0.46.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.7.jar:5.3.7]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.46.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.46.jar:9.0.46]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.7.jar:5.3.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.7.jar:5.3.7]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.7.jar:5.3.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.7.jar:5.3.7]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.7.jar:5.3.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.7.jar:5.3.7]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.46.jar:9.0.46]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+2021-06-05T19:52:12.742+0530 INFO Starting TodoListApisApplication using Java 15.0.2 on TD-4DNFGB3 with PID 1260 (C:\Projects\todo\target\classes started by sg255094 in C:\Projects\todo)
+2021-06-05T19:52:12.754+0530 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-05T19:52:12.755+0530 INFO No active profile set, falling back to default profiles: default
+2021-06-05T19:52:12.814+0530 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-05T19:52:12.814+0530 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-05T19:52:13.785+0530 INFO Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-06-05T19:52:13.870+0530 INFO Finished Spring Data repository scanning in 71 ms. Found 1 JPA repository interfaces.
+2021-06-05T19:52:14.853+0530 INFO Tomcat initialized with port(s): 8080 (http)
+2021-06-05T19:52:14.869+0530 INFO Initializing ProtocolHandler ["http-nio-8080"]
+2021-06-05T19:52:14.870+0530 INFO Starting service [Tomcat]
+2021-06-05T19:52:14.871+0530 INFO Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-05T19:52:15.039+0530 INFO Initializing Spring embedded WebApplicationContext
+2021-06-05T19:52:15.039+0530 INFO Root WebApplicationContext: initialization completed in 2224 ms
+2021-06-05T19:52:15.113+0530 INFO HikariPool-1 - Starting...
+2021-06-05T19:52:15.438+0530 INFO HikariPool-1 - Start completed.
+2021-06-05T19:52:15.449+0530 INFO H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:799306f5-5d8f-4291-838b-3172d0b843f5'
+2021-06-05T19:52:15.706+0530 INFO HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-05T19:52:15.810+0530 INFO HHH000412: Hibernate ORM core version 5.4.31.Final
+2021-06-05T19:52:16.105+0530 INFO HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-05T19:52:16.361+0530 INFO HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-06-05T19:52:17.275+0530 INFO HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-05T19:52:17.287+0530 INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-06-05T19:52:17.796+0530 WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-06-05T19:52:18.469+0530 INFO LiveReload server is running on port 35729
+2021-06-05T19:52:18.493+0530 INFO Starting ProtocolHandler ["http-nio-8080"]
+2021-06-05T19:52:18.556+0530 INFO Tomcat started on port(s): 8080 (http) with context path ''
+2021-06-05T19:52:18.578+0530 INFO Started TodoListApisApplication in 6.317 seconds (JVM running for 7.767)
+2021-06-05T19:52:18.581+0530 INFO Application availability state LivenessState changed to CORRECT
+2021-06-05T19:52:18.585+0530 INFO Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-05T19:52:21.208+0530 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-05T19:52:21.209+0530 INFO Initializing Servlet 'dispatcherServlet'
+2021-06-05T19:52:21.210+0530 INFO Completed initialization in 1 ms
+2021-06-05T19:52:21.230+0530 INFO class com.todo.controller.TodoController: Fetching all todos
+2021-06-05T19:52:24.798+0530 INFO class com.todo.controller.TodoController: Saving todo: Learn Spring
+2021-06-05T19:52:28.160+0530 INFO class com.todo.controller.TodoController: Fetching all todos
+2021-06-05T19:52:33.879+0530 INFO class com.todo.controller.TodoController: Updating todo with id: 3
+2021-06-05T19:52:33.887+0530 INFO class com.todo.controller.TodoController: Entity doesn't exist!
+2021-06-05T19:52:47.911+0530 INFO class com.todo.controller.TodoController: Updating todo with id: 2
+2021-06-05T19:52:47.912+0530 INFO class com.todo.controller.TodoController: Entity doesn't exist!
+2021-06-05T19:52:54.947+0530 INFO class com.todo.controller.TodoController: Updating todo with id: 1
+2021-06-05T19:52:59.241+0530 INFO class com.todo.controller.TodoController: Fetching all todos
+2021-06-05T19:53:05.262+0530 INFO class com.todo.controller.TodoController: Deleting todo with id: 3
+2021-06-05T19:53:05.263+0530 INFO class com.todo.controller.TodoController: Entity doesn't exist!
+2021-06-05T19:53:08.695+0530 INFO class com.todo.controller.TodoController: Deleting todo with id: 2
+2021-06-05T19:53:08.697+0530 INFO class com.todo.controller.TodoController: Entity doesn't exist!
+2021-06-05T19:53:15.603+0530 INFO class com.todo.controller.TodoController: Deleting todo with id: 1
+2021-06-05T19:53:28.052+0530 INFO class com.todo.controller.TodoController: Fetching all todos
